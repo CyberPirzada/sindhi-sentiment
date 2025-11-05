@@ -160,5 +160,9 @@ if st.button("🔍 Analyze Sentiment"):
 # 6️⃣ FOOTER
 # ---------------------------------------------------------
 st.caption('\nCreated by: ❤️ Akbar Pirzada')
+st.caption('\nLinkedin  🟦 https://www.linkedin.com/in/akbar-pirzada/')
+st.caption('\nGitHub	💻 https://github.com/CyberPirzada/')
+st.caption('\nWhatsApp	🟢+92-3113870907')
 
 #st.caption("Built with ❤️ using Streamlit • Scikit-Learn • Hugging Face Transformers")
+
