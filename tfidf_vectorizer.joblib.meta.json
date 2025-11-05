@@ -1,0 +1,5 @@
+{
+  "path": "models/tfidf_vectorizer.joblib",
+  "type": "<class 'sklearn.feature_extraction.text.TfidfVectorizer'>",
+  "timestamp": "2025-11-04 23:51:54"
+}

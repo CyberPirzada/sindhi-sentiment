@@ -1,0 +1,5 @@
+{
+  "path": "models/logreg_model.joblib",
+  "type": "<class 'sklearn.linear_model._logistic.LogisticRegression'>",
+  "timestamp": "2025-11-04 23:51:54"
+}
